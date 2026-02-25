@@ -1,1 +1,10 @@
+<html>
+<body>
+<<<<<<< HEAD
 hello world
+=======
+hiiiii
+>>>>>>> test
+</body>
+</html>
+
